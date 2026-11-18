@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/736x/e6/7c/6d/e67c6dca271f2b25a961c5676423c810.jpg",
+      "category": "gr",
+      "title": "еж"
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/1200x/64/a7/6e/64a76e5bcf69b3ad527d787ab950e893.jpg",
+      "category": "фрукт",
+      "title": "банан"
+    },
+    {
+      "id": "3",
+      "category": "hbdseпмавыbf",
+      "image": "https://i.pinimg.com/736x/6e/c8/62/6ec862bd8783efb07acf2a68784a8e28.jpg",
+      "title": "сосиска"
+    },
+    {
+      "id": "u1uY9kabVdU",
+      "title": "тесто",
+      "category": "выпечка",
+      "image": "https://i.pinimg.com/1200x/37/2d/8e/372d8e0abbc5f37bd87b6e210cd1acfc.jpg"
+    },
+    {
+      "id": "_RUAxE-05nY",
+      "title": "мопсинкали",
+      "image": "https://i.pinimg.com/1200x/82/26/45/82264518fae36df0c67240ee107a951e.jpg",
+      "category": "italic"
+    },
+    {
+      "id": "6",
+      "image": "https://i.pinimg.com/736x/67/fc/79/67fc79bad58514073644f6c90d23b3f0.jpg",
+      "category": "вкусняшка",
+      "title": "хот дог"
+    },
+    {
+      "id": "7",
+      "category": "вредно",
+      "image": "https://i.pinimg.com/736x/32/10/56/321056b795b95f307cf4e182b68025cd.jpg",
+      "title": "чипсики"
+    },
+    {
+      "id": "8",
+      "title": "wgas",
+      "category": "efdsfg",
+      "image": "https://i.pinimg.com/736x/60/82/56/608256c3a2f6aa9d753b7dc5863d21c0.jpg"
+    },
+    {
+      "id": "9",
+      "title": "пюре",
+      "image": "https://i.pinimg.com/736x/d9/4e/3f/d94e3f42d903c49d5c0fc54af89b4b3b.jpg",
+      "category": "italic"
+    },
+    {
+      "id": "10",
+      "title": "wgas",
+      "category": "efdsfg",
+      "image": "https://i.pinimg.com/736x/22/a2/c8/22a2c83dc5c4e873e9ff72715eebed36.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
